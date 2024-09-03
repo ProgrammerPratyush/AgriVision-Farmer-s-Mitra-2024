@@ -152,13 +152,16 @@ Ready to dive in? Follow these steps to set up AgriVision on your local machine:
 *Option 1:* Download the repository as a ZIP file and extract it to your desired location.
 
 *Option 2:* Clone the repo using Git:
+          
           git clone <your-repo-link>
 
 ### 2. Create a Virtual Environment 🌐
 Open Anaconda PowerShell and navigate to the folder where you want to set up the project.
 
 *Create a virtual environment:*
+      
       conda create --name agrivision-env python=3.9
+
 *(Feel free to use the LTS or latest Python version you prefer)*
 
 ### 3. Open the Project in Your IDE 💻
