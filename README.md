@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/649ec5df-a0c2-4b4c-a091-72ab9486a149)# 🌾 AgriVision: SMART CROP MANAGEMENT 🚜
+# 🌾 AgriVision: SMART CROP MANAGEMENT 🚜
 Welcome to AgriVision, the cutting-edge platform designed to revolutionize crop management with advanced AI and deep learning techniques. Whether you're a farmer aiming to enhance your yield, an agricultural scientist, or just someone passionate about technology in farming, this tool is built for you!
 
 ![image](https://github.com/user-attachments/assets/11733575-20b9-465b-9170-55012c60d260)
@@ -61,6 +61,7 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 ![image](https://github.com/user-attachments/assets/6da4a8b3-4caf-4b10-964f-7736767ef20b)
 
+
 **3. Weather Prediction Module ☀️🌧️**
 
 *Real-Time Insights:* Stay ahead of weather patterns with our predictive model, allowing you to make informed decisions to optimize crop health and yield.
@@ -71,6 +72,7 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 ![image](https://github.com/user-attachments/assets/8d82a03f-9f8f-4c62-b8b7-d1be67f73138)
 
+
 **4. RAG (Retrieval-Augmented Generation) with Reciprocal Rank Fusion 📊**
 
 *Get Reports on Demand:* Our "Get Report" module delivers specific, actionable insights for managing crops like oranges in black soil, integrating soil health, disease management, and weather patterns.
@@ -78,6 +80,7 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 *Precision & Tailoring:* Unlike generic models, our system provides contextually precise, tailored advice, minimizing the risk of misinformation.
 
 ![image](https://github.com/user-attachments/assets/eaf00579-483a-46d2-bdc8-1a32825b86c3)
+
 
 **🔖Why AgriVision’s RAG is Superior to Generic LLMs:**
 
@@ -109,6 +112,7 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 ![image](https://github.com/user-attachments/assets/3fead1d8-9f7f-4ef1-a965-c0ffd760c68a)
 
+
 ## ⚙️ Working Methodology
 **Browse for Crop Image to Detect:**
 
@@ -131,6 +135,7 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 *How it works:* Integrates RAG technology to generate comprehensive reports, including disease diagnosis, treatment options, soil health insights, and weather impact analysis.
 
 ![image](https://github.com/user-attachments/assets/a67629ae-f343-4ccb-9c6d-92f9d12a25f1)
+
 
 **Multilingual Support:**
 
