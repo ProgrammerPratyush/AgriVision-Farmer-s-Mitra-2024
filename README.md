@@ -167,7 +167,9 @@ Open the project in PyCharm or VS Code—whichever you prefer.
 Also, create a new folder inside your project folder named - "models for predictions".
 
 Here are the links to access the pre-trained model files we trained for our project-
+
 Crop model - https://drive.google.com/drive/folders/1daj7iaWjXx6D21Y83tbvmiEtOjsY9N_h?usp=drive_link
+
 Soil type model - https://drive.google.com/drive/folders/139SQizvr2sOJUD5SHzgukAEkzBbT5eRO?usp=drive_link
 
 [Note that the permissions will be granted to genuine user's only.]
