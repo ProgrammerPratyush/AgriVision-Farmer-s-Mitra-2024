@@ -1,4 +1,4 @@
-# 🌾 AgriVision: SMART CROP MANAGEMENT 🚜
+![image](https://github.com/user-attachments/assets/649ec5df-a0c2-4b4c-a091-72ab9486a149)# 🌾 AgriVision: SMART CROP MANAGEMENT 🚜
 Welcome to AgriVision, the cutting-edge platform designed to revolutionize crop management with advanced AI and deep learning techniques. Whether you're a farmer aiming to enhance your yield, an agricultural scientist, or just someone passionate about technology in farming, this tool is built for you!
 
 ![image](https://github.com/user-attachments/assets/11733575-20b9-465b-9170-55012c60d260)
@@ -43,6 +43,8 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 *Why it matters:* Early detection means you can save your crops before the disease spreads, leading to healthier yields.
 
+![image](https://github.com/user-attachments/assets/1b36a2b4-98cf-4ab2-a9e6-112b74c7d539)
+
 **2. Soil Composition & Type Prediction 🌍**
 
 *Accuracy:* Our soil composition model achieves 88% accuracy, focusing on critical factors like sand and gravel proportions to determine water holding capacity.
@@ -51,17 +53,31 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 *Innovative yet Practical:* This two-pronged approach ensures you get both the latest AI-driven predictions and reliable, data-backed soil type information.
 
+![image](https://github.com/user-attachments/assets/828f8542-48bc-42c3-9baf-62f26b1d6397)
+
+![image](https://github.com/user-attachments/assets/19ab9f44-23e8-4219-9ad7-d52a63c9b144)
+
+![image](https://github.com/user-attachments/assets/402deebc-cf88-455a-a20b-da8e0619a666)
+
+![image](https://github.com/user-attachments/assets/6da4a8b3-4caf-4b10-964f-7736767ef20b)
+
 **3. Weather Prediction Module ☀️🌧️**
 
 *Real-Time Insights:* Stay ahead of weather patterns with our predictive model, allowing you to make informed decisions to optimize crop health and yield.
 
 *Localized Accuracy:* Combine temperature, precipitation, and other elements to refine your farming strategies.
 
+![image](https://github.com/user-attachments/assets/d35cb14c-2cb5-4dfb-a9eb-2b61a34e0454)
+
+![image](https://github.com/user-attachments/assets/8d82a03f-9f8f-4c62-b8b7-d1be67f73138)
+
 **4. RAG (Retrieval-Augmented Generation) with Reciprocal Rank Fusion 📊**
 
 *Get Reports on Demand:* Our "Get Report" module delivers specific, actionable insights for managing crops like oranges in black soil, integrating soil health, disease management, and weather patterns.
 
 *Precision & Tailoring:* Unlike generic models, our system provides contextually precise, tailored advice, minimizing the risk of misinformation.
+
+![image](https://github.com/user-attachments/assets/eaf00579-483a-46d2-bdc8-1a32825b86c3)
 
 **🔖Why AgriVision’s RAG is Superior to Generic LLMs:**
 
@@ -89,6 +105,10 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 
 *Consistent Experience:* Every feature, report, and insight is available in your preferred language for seamless interaction.
 
+![image](https://github.com/user-attachments/assets/6f9e3185-fd67-4692-9539-2df8a4ce115a)
+
+![image](https://github.com/user-attachments/assets/3fead1d8-9f7f-4ef1-a965-c0ffd760c68a)
+
 ## ⚙️ Working Methodology
 **Browse for Crop Image to Detect:**
 
@@ -109,6 +129,8 @@ Precision at its best: Detect crop diseases with a whopping 99% accuracy!
 **Reciprocal Rank Fusion with RAG:**
 
 *How it works:* Integrates RAG technology to generate comprehensive reports, including disease diagnosis, treatment options, soil health insights, and weather impact analysis.
+
+![image](https://github.com/user-attachments/assets/a67629ae-f343-4ccb-9c6d-92f9d12a25f1)
 
 **Multilingual Support:**
 
