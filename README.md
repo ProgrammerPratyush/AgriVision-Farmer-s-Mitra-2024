@@ -178,9 +178,11 @@ Paste these models inside your models for prediction folder and locate the path 
 
 ### 4. Install Dependencies 📦
 Ensure your virtual environment is activated:
+      
       conda activate agrivision-env
 
 Install all required dependencies using the requirements.txt file:
+      
       pip install -r requirements.txt
 
 ### 5. Set Up API Keys 🔑
@@ -189,14 +191,18 @@ Add these keys to the project settings to utilize weather prediction and RRF RAG
 
 ### 6. Install Streamlit 📊
 Install Streamlit if it's not already included:
+      
       pip install streamlit
+
 Verify the installation and compatibility:
+      
       streamlit --version
 
 ### 7. Run the Application 🏃‍♂️
 In the terminal, navigate to the directory containing your main application file.
 
 *Launch the app:*
+    
     streamlit run <app-name>.py
 
 The application will open in your default web browser, ready for interaction.
