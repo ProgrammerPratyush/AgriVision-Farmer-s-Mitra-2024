@@ -1,6 +1,9 @@
 # 🌾 AgriVision: SMART CROP MANAGEMENT 🚜
 Welcome to AgriVision, the cutting-edge platform designed to revolutionize crop management with advanced AI and deep learning techniques. Whether you're a farmer aiming to enhance your yield, an agricultural scientist, or just someone passionate about technology in farming, this tool is built for you!
 
+![image](https://github.com/user-attachments/assets/11733575-20b9-465b-9170-55012c60d260)
+
+
 ## 📜 Abstract
 Agriculture is the cornerstone of many economies, particularly in developing nations. However, modern agriculture faces numerous challenges, including plant diseases, soil depletion, and climate change, which threaten food security and disrupt farmers' livelihoods. AgriVision is a revolutionary platform that leverages Artificial Intelligence (AI) and Machine Learning (ML) to transform traditional farming practices. It provides a comprehensive crop management system for optimal crop health, soil management, and resource utilization.
 
